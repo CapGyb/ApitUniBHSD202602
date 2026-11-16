@@ -197,5 +197,5 @@ sudo service nginx stop        # parar o NGINX
 
 ## 👥 Equipe
 
-* Caio
-* Raphel
+* Caio Pereira Reis
+* Raphael Silva Brito
